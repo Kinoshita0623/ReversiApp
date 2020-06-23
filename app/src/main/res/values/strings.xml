@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReversiApp</string>
+    <string name="skip">スキップ</string>
+    <string name="surrender">今は認めようお前が強い</string>
+</resources>
